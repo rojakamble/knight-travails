@@ -74,6 +74,7 @@ Macbook commands: shift+cmd+B ------> to compile the code.
 Once you see the build message as "Terminal will be reused by tasks, press any key to close it." then click any key
 then from the path which has been setup and our main.cpp file is present, for example, "roja@Yeshwanths-MBP knights % " for this type ./main which is finally seen as "roja@Yeshwanths-MBP knights % ./main" then click enter key. You will see the results. If there is no result and code got stuck then you have click "ctrl+c" to get the path back again and then you need to save and recompile the code and repeat the process.
 
+**TODO: Update steps for commands ro run**
 
 **Time complexity**
 
